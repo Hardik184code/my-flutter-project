@@ -1,0 +1,57 @@
+[{
+		"id": 1,
+		"Song": "Bekhayali",
+		"Artist": "Sachet Tandon",
+		"Img": "IMG 1.jpg",
+		"Audio": "Bekhayali.mp3"
+	},
+	{
+		"id": 2,
+		"Song": "Radha",
+		"Artist": "Dhvani Bhanushali",
+		"Img": "IMG 2.jpg",
+		"Audio": "Radha.mp3"
+	},
+	{
+		"id": 3,
+		"Song": "Bhumbro",
+		"Artist": "Shirley Setia",
+		"Img": "IMG 3.jpg",
+		"Audio": "Bhumbro.mp3"
+	},
+	{
+		"id": 4,
+		"Song": "Chal Ghar Chalen",
+		"Artist": "Arijit Singh",
+		"Img": "IMG 4.jpg",
+		"Audio": "Chal Ghar Chalen.mp3"
+	},
+	{
+		"id": 5,
+		"Song": "Chhor Denge",
+		"Artist": "Parampara Tandon",
+		"Img": "IMG 5.jpg",
+		"Audio": "Chhor Denge.mp3"
+	},
+	{
+		"id": 6,
+		"Song": "Nachunga Aise",
+		"Artist": "Millind Gaba",
+		"Img": "IMG 6.webp",
+		"Audio": "Nachunga Aise.mp3"
+	},
+	{
+		"id": 7,
+		"Song": "Naach Meri Rani",
+		"Artist": "Guru Randhawa",
+		"Img": "IMG 7.webp",
+		"Audio": "Naach Meri Rani.mp3"
+	},
+	{
+		"id": 8,
+		"Song": "Tera Chehra Jaan Meri",
+		"Artist": "Tulsi Kumar, Jubin Nautiyal",
+		"Img": "IMG 8.jpg",
+		"Audio": "Tera Chehra Jaan Meri.mp3"
+	}
+]

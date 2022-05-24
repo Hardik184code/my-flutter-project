@@ -1,0 +1,275 @@
+[
+    {
+        "Group": {
+            "x": [
+                {
+                    "time": 500,
+                    "value": 257.06,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1000,
+                    "value": 234.27,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1500,
+                    "value": 257.06,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2000,
+                    "value": 245,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2500,
+                    "value": 257.06,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 3000,
+                    "value": 234,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "y": [
+                {
+                    "time": 500,
+                    "value": 230.92,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "Group": {
+            "x": [
+                {
+                    "time": 500,
+                    "value": 252.88,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1000,
+                    "value": 243.21,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1500,
+                    "value": 238.14,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2000,
+                    "value": 233.33,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2500,
+                    "value": 244.11,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 3000,
+                    "value": 234.88,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "y": [
+                {
+                    "time": 0,
+                    "value": 244.13,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 500,
+                    "value": 244.13,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1000,
+                    "value": 231.13,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 1500,
+                    "value": 243.13,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2000,
+                    "value": 247.13,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 2500,
+                    "value": 231.13,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                },
+                {
+                    "time": 3000,
+                    "value": 234.13,
+                    "easing": "linear",
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "effects": [
+                {
+                    "time": 0,
+                    "value": [
+                        {
+                            "type": "DROP_SHADOW",
+                            "color": {
+                                "r": 1,
+                                "g": 0.42352941632270813,
+                                "b": 0.42352941632270813,
+                                "a": 1
+                            },
+                            "offset": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "radius": 11,
+                            "spread": 0,
+                            "visible": true,
+                            "blendMode": "NORMAL",
+                            "showShadowBehindNode": true
+                        }
+                    ],
+                    "easing": [
+                        0,
+                        0,
+                        1,
+                        1.13
+                    ],
+                    "bezierParams": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ]
+                }
+            ]
+        }
+    }
+]
